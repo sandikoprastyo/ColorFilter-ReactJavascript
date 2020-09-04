@@ -2,7 +2,6 @@ import React from "react";
 import "./App.css";
 import ListColor from "./components/ListColor";
 import { data } from "./assets/data.json";
-import ShortList from "./components/ShortList";
 
 function App() {
   const [filter, setfilter] = React.useState("");
@@ -16,7 +15,6 @@ function App() {
         placeholder="Filter type...."
         onChange={(event) => setfilter(event.target.value)}
       />
-      <ShortList />
       <ListColor filter={filter} data={data} />
     </div>
   );
