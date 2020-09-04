@@ -1,0 +1,130 @@
+{
+    "data": [{
+            "id": 1,
+            "color": "red"
+        },
+        {
+            "id": 2,
+            "color": "blue"
+        },
+        {
+            "id": 3,
+            "color": "yellow"
+        },
+        {
+            "id": 4,
+            "color": "green"
+        },
+        {
+            "id": 5,
+            "color": "Indigo"
+        }, {
+            "id": 6,
+            "color": "AntiqueWhite"
+        }, {
+            "id": 7,
+            "color": "Aqua"
+        }, {
+            "id": 8,
+            "color": "Aquamarine"
+        }, {
+            "id": 9,
+            "color": "Azure"
+        }, {
+            "id": 10,
+            "color": "LimeGreen"
+        }, {
+            "id": 11,
+            "color": "Magenta"
+        }, {
+            "id": 12,
+            "color": "BlanchedAlmond"
+        }, {
+            "id": 13,
+            "color": "BlueViolet"
+        }, {
+            "id": 14,
+            "color": "Brown"
+        }, {
+            "id": 15,
+            "color": "BurlyWood"
+        }, {
+            "id": 16,
+            "color": "CadetBlue"
+        },
+        {
+            "id": 17,
+            "color": "Chartreuse"
+        },
+        {
+            "id": 18,
+            "color": "Chocolate"
+        }, {
+            "id": 19,
+            "color": "Coral"
+        }, {
+            "id": 20,
+            "color": "CornflowerBlue"
+        }, {
+            "id": 21,
+            "color": "Cornsilk"
+        }, {
+            "id": 22,
+            "color": "Crimson"
+        }, {
+            "id": 23,
+            "color": "Cyan"
+        }, {
+            "id": 24,
+            "color": "PowderBlue"
+        }, {
+            "id": 25,
+            "color": "DarkCyan"
+        }, {
+            "id": 26,
+            "color": "DarkGoldenRod"
+        }, {
+            "id": 27,
+            "color": "DarkGray"
+        }, {
+            "id": 28,
+            "color": "DarkGreen"
+        }, {
+            "id": 29,
+            "color": "DarkKhaki"
+        }, {
+            "id": 30,
+            "color": "Tomato"
+        }, {
+            "id": 31,
+            "color": "RebeccaPurple"
+        }, {
+            "id": 32,
+            "color": "DarkOrange"
+        }, {
+            "id": 33,
+            "color": "SpringGreen"
+        }, {
+            "id": 34,
+            "color": "DarkSalmon"
+        }, {
+            "id": 35,
+            "color": "DarkSeaGreen"
+        }, {
+            "id": 36,
+            "color": "DarkSlateBlue"
+        }, {
+            "id": 37,
+            "color": "DarkSlateBlue"
+        }, {
+            "id": 38,
+            "color": "DeepPink"
+        }, {
+            "id": 39,
+            "color": "RosyBrown"
+        }, {
+            "id": 40,
+            "color": "Wheat"
+        }
+    ]
+}
